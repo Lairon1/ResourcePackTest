@@ -1,0 +1,33 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/netherite_sword"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":2001}, "model": "item/sword/netherit/tomioko"},
+		{"predicate": {"custom_model_data":2002}, "model": "item/sword/netherit/mitsuri"},
+		{"predicate": {"custom_model_data":2003}, "model": "item/sword/netherit/rengoku"},
+		{"predicate": {"custom_model_data":2004}, "model": "item/sword/netherit/sanemi"},
+		{"predicate": {"custom_model_data":2005}, "model": "item/sword/netherit/def_netherit"},
+		{"predicate": {"custom_model_data":2006}, "model": "item/sword/netherit/gladius"},
+		{"predicate": {"custom_model_data":2007}, "model": "item/sword/netherit/sw1"},
+		{"predicate": {"custom_model_data":2008}, "model": "item/sword/netherit/sw5"},
+		{"predicate": {"custom_model_data":2009}, "model": "item/sword/netherit/sw6"},
+		{"predicate": {"custom_model_data":2010}, "model": "item/demon_set/demon_sword"},
+		{"predicate": {"custom_model_data":2011}, "model": "item/abys/abyssion_sword"},
+		{"predicate": {"custom_model_data":2012}, "model": "item/abys/abyssion_sword_shiny"},
+		{"predicate": {"custom_model_data":2013}, "model": "item/stardust/stardust_sword"},
+		{"predicate": {"custom_model_data":2014}, "model": "item/sword/netherit/archangel_sword"},
+		{"predicate": {"custom_model_data":2015}, "model": "cyber_set/cyber_sword"},
+		{"predicate": {"custom_model_data":2016}, "model": "item/sword/netherit/"},
+		{"predicate": {"custom_model_data":2017}, "model": "item/sword/netherit/"},
+		{"predicate": {"custom_model_data":2018}, "model": "item/sword/netherit/"},
+		{"predicate": {"custom_model_data":2019}, "model": "item/sword/netherit/"},
+		{"predicate": {"custom_model_data":2020}, "model": "item/sword/netherit/"},
+		{"predicate": {"custom_model_data":2021}, "model": "item/sword/netherit/"},
+		{"predicate": {"custom_model_data":2022}, "model": "item/sword/netherit/"},
+		{"predicate": {"custom_model_data":2023}, "model": "item/sword/netherit/"},
+		{"predicate": {"custom_model_data":2024}, "model": "item/sword/netherit/"}
+	]
+}

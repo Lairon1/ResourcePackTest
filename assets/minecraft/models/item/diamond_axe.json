@@ -1,0 +1,22 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_axe"
+    },
+	"overrides": [
+	   { "predicate": { "custom_model_data": 2001}, "model": "item/steampunk/steampunk_axe" },
+	   { "predicate": { "custom_model_data": 2002}, "model": "item/rune_set/rune_axe" },
+	   { "predicate": { "custom_model_data": 2003}, "model": "ogmydog/amethyst_axe" },
+	   { "predicate": { "custom_model_data": 2004}, "model": "ogmydog/amethyst_battleaxe" },
+	   { "predicate": { "custom_model_data": 2005}, "model": "item/axe/diamond/" },
+	   { "predicate": { "custom_model_data": 2006}, "model": "item/axe/diamond/" },
+	   { "predicate": { "custom_model_data": 2007}, "model": "item/axe/diamond/" },
+	   { "predicate": { "custom_model_data": 2008}, "model": "item/axe/diamond/" },
+	   { "predicate": { "custom_model_data": 2009}, "model": "item/axe/diamond/" },
+	   { "predicate": { "custom_model_data": 2010}, "model": "item/axe/diamond/" },
+	   { "predicate": { "custom_model_data": 2011}, "model": "item/axe/diamond/" },
+	   { "predicate": { "custom_model_data": 2012}, "model": "item/axe/diamond/" },
+	   { "predicate": { "custom_model_data": 2013}, "model": "item/axe/diamond/" },
+	   { "predicate": { "custom_model_data": 2014}, "model": "item/axe/diamond/" }
+    ]
+}

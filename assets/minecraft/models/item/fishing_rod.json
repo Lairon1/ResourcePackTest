@@ -1,0 +1,19 @@
+{
+  "parent": "item/handheld_rod",
+  "textures": {
+      "layer0": "item/fishing_rod"
+  },
+  "overrides": [
+      {
+          "predicate": {
+              "cast": 1
+            },
+		"model": "item/fishing_rod_cast" },
+        { "predicate": { "custom_model_data":2001 }, "model": "ogmydog/amethyst_fishing_rod" },
+        { "predicate": { "custom_model_data":2001, "cast": 1 }, "model": "ogmydog/amethyst_fishing_rod_cast" },
+		
+		
+        { "predicate": { "custom_model_data":2002 }, "model": "cyber_set/cyber_rod" },
+        { "predicate": { "custom_model_data":2002, "cast": 1 }, "model": "cyber_set/cyber_rod_cast" }
+    ]
+}

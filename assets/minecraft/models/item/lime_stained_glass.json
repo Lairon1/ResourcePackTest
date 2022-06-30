@@ -1,0 +1,15 @@
+{
+	"parent": "item/generated",
+	"ambientocclusion": false,
+	"textures": {
+		"layer0": "item/lime_stained_glass"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1001}, "model": "item/banner/auc"},
+		{"predicate": {"custom_model_data":1002}, "model": "item/banner/skup"},
+		{"predicate": {"custom_model_data":1003}, "model": "item/banner/lot"},
+		{"predicate": {"custom_model_data":1004}, "model": "item/banner/tf"},
+		{"predicate": {"custom_model_data":1005}, "model": "item/banner/top"}
+	]
+}
